@@ -40,3 +40,7 @@ Proyek ini saat ini masih dalam tahap dasar HTML. Untuk meningkatkan tampilan, d
 - JavaScript untuk interaktivitas
 - Link aktual ke profil LinkedIn dan GitHub
 - Detail pengalaman kerja yang lebih spesifik
+
+## Sumber Referensi
+
+- [roadmap.sh - Single Page CV Project](https://roadmap.sh/projects/single-page-cv)
